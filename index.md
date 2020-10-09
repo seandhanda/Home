@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# UBC Sauder School of Business || BUCS-Combined Major in Business and Computer Science
 
-You can use the [editor on GitHub](https://github.com/seandhanda/Home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ABOUT ME
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hey, I am an undergraduate student pursuing a Bachelor of Commerce degree in Business and Computer Science at Sauder School of Business, UBC. I've succesfully completed CPSC 110, and am currently enrolled in CPSC 210.
 
-### Markdown
+I have a passion for problem solving and software development with a keen interest in new technologies and enjoy working outside of my comfort zone.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+🌱 I'M CURRENTLY LEARNING:
 
-# Header 1
-## Header 2
-### Header 3
+Java
+Python
 
-- Bulleted
-- List
+🤔 WHERE ELSE CAN YOU FIND ME?
 
-1. Numbered
-2. List
+LeetCode: sdhanda48
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seandhanda/Home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+📫 HOW TO REACH ME:
+Drop me a mail at sdhanda4862@gmail.com!

@@ -1,4 +1,4 @@
-# SEAN DHANDA || BUCS-Combined Major in Business and Computer Science
+# Sean Dhanda || UBC SAUDER BUCS-Combined Major in Business and Computer Science
 
 ABOUT ME
 

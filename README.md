@@ -4,8 +4,6 @@ ABOUT ME
 
 Hey, I am an undergraduate student pursuing a Bachelor of Commerce degree in Business and Computer Science at Sauder School of Business, UBC. I've successfully completed CPSC 110, and am currently enrolled in CPSC 210.
 
-I have a passion for problem solving and software development with a keen interest in new technologies and enjoy working outside of my comfort zone.
-
 
 🌱 I'M CURRENTLY LEARNING:
 

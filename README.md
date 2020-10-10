@@ -1,8 +1,10 @@
-# Sean Dhanda || My Projects || BUCS-Combined Major in Business and Computer Science
+# Sean Dhanda || MY PROJECTS || Combined Major in Business and Computer Science
 
 ABOUT ME
 
-Hey, I am an undergraduate student pursuing a Bachelor of Commerce degree in Business and Computer Science at Sauder School of Business, UBC. I've successfully completed CPSC 110, and am currently enrolled in CPSC 210.
+Hey, I am an undergraduate student pursuing a Bachelor of Commerce degree in Business and Computer Science at the Sauder School of Business, UBC. I've successfully completed CPSC 110, and am currently enrolled in CPSC 210. 
+
+My Current Project: Designing a program that maps together major geological events, in order to find patterns that may help us predict future anomalies!
 
 
 🌱 I'M CURRENTLY LEARNING:

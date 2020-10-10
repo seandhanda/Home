@@ -1,4 +1,4 @@
-# UBC Sauder School of Business || BUCS-Combined Major in Business and Computer Science
+# SEAN DHANDA || BUCS-Combined Major in Business and Computer Science
 
 ABOUT ME
 

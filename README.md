@@ -1,4 +1,4 @@
-# SEAN DHANDA || MY PROJECTS 
+# SEAN DHANDA || MY PROJECTS || UBC Sauder - Combined Major Business and Computer Science
 
 ABOUT ME
 

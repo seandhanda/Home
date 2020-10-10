@@ -7,9 +7,14 @@ Hey, I am an undergraduate student pursuing a Bachelor of Commerce degree in Bus
 My Current Project: Designing a program that maps together major geological events, in order to find patterns that may help us predict future anomalies!
 
 
-🌱 I'M CURRENTLY LEARNING:
+🔭 ALREADY LEARNED: 
 
 Java
+
+DR Racket
+
+
+🌱 I'M CURRENTLY LEARNING:
 
 Python
 

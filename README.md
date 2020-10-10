@@ -1,4 +1,4 @@
-# Sean Dhanda || MY PROJECTS || Combined Major in Business and Computer Science
+# Sean Dhanda || MY PROJECTS || UBC SAUDER 
 
 ABOUT ME
 
